@@ -3,7 +3,7 @@ title: 'Basics of Hierarchical Queries'
 description: ""
 ---
 
-## Insert exercise title here
+## Working with CTEs  and hierarchical queries
 
 ```yaml
 type: VideoExercise
