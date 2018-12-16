@@ -3,7 +3,7 @@ title: 'Basics of Hierarchical Queries'
 description: ""
 ---
 
-## Introduction to hierarchical Data
+## Introduction to hierarchical data
 
 ```yaml
 type: VideoExercise
