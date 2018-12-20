@@ -26,3 +26,41 @@ xp: 50
 
 `@projector_key`
 6a229a22cf861b184050cf100cd889dc
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise
+key: 5201537197
+xp: 100
+```
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+```{r}
+
+```
+
+`@sample_code`
+```{r}
+
+```
+
+`@solution`
+```{r}
+
+```
+
+`@sct`
+```{r}
+
+```
